@@ -17,5 +17,3 @@ def BusquedaBinaria(lista, elemento):
 lista=[1, 3, 5, 7, 9, 11, 23, 45]
 
 print(BusquedaBinaria(lista, 3))
-print(BusquedaBinaria(lista, -1))
-print(BusquedaBinaria(lista, 45))
